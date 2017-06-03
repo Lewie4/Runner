@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+Unity/Runner/[Ll]ibrary/
+Unity/Runner/[Tt]emp/
+Unity/Runner/[Oo]bj/
+Unity/Runner/[Bb]uild/
+Unity/Runner/[Bb]uilds/
+Unity/Runner/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -31,4 +31,3 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
