@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 41b2ee9d7d43cbd408171a49f3697826
+timeCreated: 1496504251
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: Cube.004
+    100010: Cube.005
+    100012: Cube.006
+    100014: Cube.007
+    100016: Cube.008
+    100018: //RootNode
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: Cube.004
+    400010: Cube.005
+    400012: Cube.006
+    400014: Cube.007
+    400016: Cube.008
+    400018: //RootNode
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cube.004
+    2300010: Cube.005
+    2300012: Cube.006
+    2300014: Cube.007
+    2300016: Cube.008
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cube.004
+    3300010: Cube.005
+    3300012: Cube.006
+    3300014: Cube.007
+    3300016: Cube.008
+    4300000: Cube.008
+    4300002: Cube.007
+    4300004: Cube.006
+    4300006: Cube.005
+    4300008: Cube.004
+    4300010: Cube.003
+    4300012: Cube.002
+    4300014: Cube.001
+    4300016: Cube
+    7400000: Cube.008|Cube.001Action.005
+    7400002: Cube.008|Cube.002Action.004
+    7400004: Cube.008|Cube.003Action.002
+    7400006: Cube.008|Cube.004Action.003
+    7400008: Cube.008|Cube.005Action.004
+    7400010: Cube.008|Cube.006Action.003
+    7400012: Cube.008|Cube.007Action.004
+    7400014: Cube.008|Cube.008Action.002
+    7400016: Cube.008|CubeAction.004
+    7400018: Cube.008|Walk
+    7400020: Cube.008|Walk.001
+    7400022: Cube.008|WalkNew
+    7400024: Cube.007|Cube.001Action.005
+    7400026: Cube.007|Cube.002Action.004
+    7400028: Cube.007|Cube.003Action.002
+    7400030: Cube.007|Cube.004Action.003
+    7400032: Cube.007|Cube.005Action.004
+    7400034: Cube.007|Cube.006Action.003
+    7400036: Cube.007|Cube.007Action.004
+    7400038: Cube.007|Cube.008Action.002
+    7400040: Cube.007|CubeAction.004
+    7400042: Cube.007|Walk
+    7400044: Cube.007|Walk.001
+    7400046: Cube.007|WalkNew
+    7400048: Cube.006|Cube.001Action.005
+    7400050: Cube.006|Cube.002Action.004
+    7400052: Cube.006|Cube.003Action.002
+    7400054: Cube.006|Cube.004Action.003
+    7400056: Cube.006|Cube.005Action.004
+    7400058: Cube.006|Cube.006Action.003
+    7400060: Cube.006|Cube.007Action.004
+    7400062: Cube.006|Cube.008Action.002
+    7400064: Cube.006|CubeAction.004
+    7400066: Cube.006|Walk
+    7400068: Cube.006|Walk.001
+    7400070: Cube.006|WalkNew
+    7400072: Cube.005|Cube.001Action.005
+    7400074: Cube.005|Cube.002Action.004
+    7400076: Cube.005|Cube.003Action.002
+    7400078: Cube.005|Cube.004Action.003
+    7400080: Cube.005|Cube.005Action.004
+    7400082: Cube.005|Cube.006Action.003
+    7400084: Cube.005|Cube.007Action.004
+    7400086: Cube.005|Cube.008Action.002
+    7400088: Cube.005|CubeAction.004
+    7400090: Cube.005|Walk
+    7400092: Cube.005|Walk.001
+    7400094: Cube.005|WalkNew
+    7400096: Cube.004|Cube.001Action.005
+    7400098: Cube.004|Cube.002Action.004
+    7400100: Cube.004|Cube.003Action.002
+    7400102: Cube.004|Cube.004Action.003
+    7400104: Cube.004|Cube.005Action.004
+    7400106: Cube.004|Cube.006Action.003
+    7400108: Cube.004|Cube.007Action.004
+    7400110: Cube.004|Cube.008Action.002
+    7400112: Cube.004|CubeAction.004
+    7400114: Cube.004|Walk
+    7400116: Cube.004|Walk.001
+    7400118: Cube.004|WalkNew
+    7400120: Cube.003|Cube.001Action.005
+    7400122: Cube.003|Cube.002Action.004
+    7400124: Cube.003|Cube.003Action.002
+    7400126: Cube.003|Cube.004Action.003
+    7400128: Cube.003|Cube.005Action.004
+    7400130: Cube.003|Cube.006Action.003
+    7400132: Cube.003|Cube.007Action.004
+    7400134: Cube.003|Cube.008Action.002
+    7400136: Cube.003|CubeAction.004
+    7400138: Cube.003|Walk
+    7400140: Cube.003|Walk.001
+    7400142: Cube.003|WalkNew
+    7400144: Cube.002|Cube.001Action.005
+    7400146: Cube.002|Cube.002Action.004
+    7400148: Cube.002|Cube.003Action.002
+    7400150: Cube.002|Cube.004Action.003
+    7400152: Cube.002|Cube.005Action.004
+    7400154: Cube.002|Cube.006Action.003
+    7400156: Cube.002|Cube.007Action.004
+    7400158: Cube.002|Cube.008Action.002
+    7400160: Cube.002|CubeAction.004
+    7400162: Cube.002|Walk
+    7400164: Cube.002|Walk.001
+    7400166: Cube.002|WalkNew
+    7400168: Cube.001|Cube.001Action.005
+    7400170: Cube.001|Cube.002Action.004
+    7400172: Cube.001|Cube.003Action.002
+    7400174: Cube.001|Cube.004Action.003
+    7400176: Cube.001|Cube.005Action.004
+    7400178: Cube.001|Cube.006Action.003
+    7400180: Cube.001|Cube.007Action.004
+    7400182: Cube.001|Cube.008Action.002
+    7400184: Cube.001|CubeAction.004
+    7400186: Cube.001|Walk
+    7400188: Cube.001|Walk.001
+    7400190: Cube.001|WalkNew
+    7400192: Cube|Cube.001Action.005
+    7400194: Cube|Cube.002Action.004
+    7400196: Cube|Cube.003Action.002
+    7400198: Cube|Cube.004Action.003
+    7400200: Cube|Cube.005Action.004
+    7400202: Cube|Cube.006Action.003
+    7400204: Cube|Cube.007Action.004
+    7400206: Cube|Cube.008Action.002
+    7400208: Cube|CubeAction.004
+    7400210: Cube|Walk
+    7400212: Cube|Walk.001
+    7400214: Cube|WalkNew
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
